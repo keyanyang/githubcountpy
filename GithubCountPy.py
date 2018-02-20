@@ -60,7 +60,3 @@ def repos_count(*repos):
         repos_list.append(repo_dict)
 
     return repos_list
-
-
-
-
