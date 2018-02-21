@@ -7,7 +7,7 @@ setup(name='githubcountpy',
       author='Kyle Yang',
       author_email='keyanyoung@gmail.com',
       license='MIT',
-      packages=['funniest'],
+      packages=['githubcountpy'],
       install_requires=[
           'beautifulsoup4==4.6.0', 'requests==2.18.4'
       ],
