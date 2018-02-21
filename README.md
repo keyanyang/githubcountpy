@@ -1,6 +1,6 @@
 GithubCountPy
 =====
-GithubCountPy is a very simple module to count watch, fork, star, commit and etc. for specific repositories.
+GithubCountPy is a very simple module to count watch, fork, star, commit, etc. for specific repositories.
 
 No user, password and access token needed.
 
