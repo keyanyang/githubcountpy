@@ -59,4 +59,5 @@ def repos_count(*repos):
 
         repos_list.append(repo_dict)
 
-    return repos_list
+        result = json.dumps(repos_list, indent=4)
+    return result
