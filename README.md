@@ -18,6 +18,10 @@ print(count_repos)
 #'watch': 1944, 'star': 33284...}]
 ```
 
+### Install
+If using pipenv, run the command
+`pipenv install git+git://github.com/keyanyang/githubcountpy.git#egg=GithubCountPy`
+
 ### API
 Github's API V3 is used for counts including watch, star, fork, open_issues, lang and created_time.
 
