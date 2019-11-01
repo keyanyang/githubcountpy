@@ -9,6 +9,6 @@ setup(name='GithubCountPy',
       license='MIT',
       packages=['GithubCountPy'],
       install_requires=[
-          'beautifulsoup4==4.6.0', 'requests==2.18.4'
+          'beautifulsoup4==4.6.0', 'requests==2.20.0'
       ],
       zip_safe=False)
